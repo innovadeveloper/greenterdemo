@@ -1,0 +1,112 @@
+{
+    "version": "2022",
+    "tipoDoc": "09",
+    "serie": "T001",
+    "correlativo": "124",
+    "observacion": null,
+    "fechaEmision": {
+        "date": "2025-03-04 03:13:41.900393",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "company": {
+        "ruc": "20161515648",
+        "razonSocial": "GREENTER S.A.C.",
+        "nombreComercial": null,
+        "address": null,
+        "email": null,
+        "telephone": null
+    },
+    "destinatario": {
+        "tipoDoc": "6",
+        "numDoc": "20000000002",
+        "rznSocial": "EMPRESA DEST 1",
+        "address": null,
+        "email": null,
+        "telephone": null
+    },
+    "tercero": null,
+    "comprador": null,
+    "envio": {
+        "codTraslado": "01",
+        "desTraslado": null,
+        "sustentoPeso": null,
+        "indTransbordo": null,
+        "indicadores": null,
+        "pesoItems": null,
+        "pesoTotal": 12.5,
+        "undPesoTotal": "KGM",
+        "numBultos": null,
+        "modTraslado": "01",
+        "fecTraslado": {
+            "date": "2025-03-04 03:13:41.900180",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        },
+        "numContenedor": null,
+        "contenedores": null,
+        "codPuerto": null,
+        "puerto": null,
+        "aeropuerto": null,
+        "transportista": {
+            "tipoDoc": "6",
+            "numDoc": "20000000002",
+            "rznSocial": "TRANSPORTES S.A.C",
+            "nroMtc": "0001",
+            "placa": null,
+            "choferTipoDoc": null,
+            "choferDoc": null
+        },
+        "vehiculo": null,
+        "choferes": null,
+        "llegada": {
+            "ubigueo": "150101",
+            "direccion": "AV LIMA",
+            "codLocal": null,
+            "ruc": null
+        },
+        "partida": {
+            "ubigueo": "150203",
+            "direccion": "AV ITALIA",
+            "codLocal": null,
+            "ruc": null
+        }
+    },
+    "docBaja": null,
+    "relDoc": null,
+    "addDocs": [
+        {
+            "tipoDesc": "Constancia de Depósito - IVAP (Ley 28211)",
+            "tipo": "49",
+            "nro": "00000001",
+            "emisor": null
+        }
+    ],
+    "details": [
+        {
+            "codigo": "PROD1",
+            "descripcion": "PROD 1",
+            "unidad": "ZZ",
+            "cantidad": 2,
+            "codProdSunat": "50161509",
+            "atributos": [
+                {
+                    "code": "7020",
+                    "name": "Partida arancelaria",
+                    "value": "1701130000",
+                    "fecInicio": null,
+                    "fecFin": null,
+                    "duracion": null
+                },
+                {
+                    "code": "7022",
+                    "name": "Indicador de bien normalizado",
+                    "value": "1",
+                    "fecInicio": null,
+                    "fecFin": null,
+                    "duracion": null
+                }
+            ]
+        }
+    ]
+}

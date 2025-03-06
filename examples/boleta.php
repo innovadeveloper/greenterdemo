@@ -60,6 +60,7 @@ $invoice->setDetails([$item1])
 
 // Envio a SUNAT.
 $see = $util->getSee(SunatEndpoints::FE_BETA);
+
 $res = $see->send($invoice);
 $util->writeXml($invoice, $see->getFactory()->getLastXml());
 

@@ -1,0 +1,89 @@
+{
+    "serie": "R001",
+    "correlativo": "123",
+    "fechaEmision": {
+        "date": "2025-03-04 03:15:31.133457",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "company": {
+        "ruc": "20123456789",
+        "razonSocial": "GREENTER S.A.C.",
+        "nombreComercial": "GREENTER",
+        "address": {
+            "ubigueo": "150101",
+            "codigoPais": "PE",
+            "departamento": "LIMA",
+            "provincia": "LIMA",
+            "distrito": "LIMA",
+            "urbanizacion": "CASUARINAS",
+            "direccion": "AV NEW DEÁL 123",
+            "codLocal": "0000"
+        },
+        "email": "admin@greenter.com",
+        "telephone": "01-234455"
+    },
+    "proveedor": {
+        "tipoDoc": "6",
+        "numDoc": "20000000001",
+        "rznSocial": "EMPRESA 1 S.A.C.",
+        "address": {
+            "ubigueo": null,
+            "codigoPais": "PE",
+            "departamento": null,
+            "provincia": null,
+            "distrito": null,
+            "urbanizacion": null,
+            "direccion": "JR. NIQUEL MZA. F LOTE. 3 URB.  INDUSTRIAL INFAÑTAS - LIMA - LIMA -PERU",
+            "codLocal": "0000"
+        },
+        "email": "client@corp.com",
+        "telephone": "01-445566"
+    },
+    "regimen": "01",
+    "tasa": 3,
+    "impRetenido": 10,
+    "impPagado": 200,
+    "observacion": "NOTA \/><!-- HI -->",
+    "details": [
+        {
+            "tipoDoc": "01",
+            "numDoc": "F001-1",
+            "fechaEmision": {
+                "date": "2025-03-04 03:15:31.133731",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "impTotal": 210,
+            "moneda": "PEN",
+            "pagos": [
+                {
+                    "moneda": "PEN",
+                    "importe": 100,
+                    "fecha": {
+                        "date": "2025-03-04 03:15:31.133629",
+                        "timezone_type": 3,
+                        "timezone": "UTC"
+                    }
+                }
+            ],
+            "fechaRetencion": {
+                "date": "2025-03-04 03:15:31.133731",
+                "timezone_type": 3,
+                "timezone": "UTC"
+            },
+            "impRetenido": 10,
+            "impPagar": 200,
+            "tipoCambio": {
+                "monedaRef": "PEN",
+                "monedaObj": "PEN",
+                "factor": 1,
+                "fecha": {
+                    "date": "2025-03-04 03:15:31.133665",
+                    "timezone_type": 3,
+                    "timezone": "UTC"
+                }
+            }
+        }
+    ]
+}

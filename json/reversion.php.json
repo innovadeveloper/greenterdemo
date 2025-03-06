@@ -1,0 +1,44 @@
+{
+    "correlativo": "001",
+    "fecGeneracion": {
+        "date": "2025-03-01 03:15:34.312895",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "fecComunicacion": {
+        "date": "2025-03-03 03:15:34.312898",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "company": {
+        "ruc": "20123456789",
+        "razonSocial": "GREENTER S.A.C.",
+        "nombreComercial": "GREENTER",
+        "address": {
+            "ubigueo": "150101",
+            "codigoPais": "PE",
+            "departamento": "LIMA",
+            "provincia": "LIMA",
+            "distrito": "LIMA",
+            "urbanizacion": "CASUARINAS",
+            "direccion": "AV NEW DEÁL 123",
+            "codLocal": "0000"
+        },
+        "email": "admin@greenter.com",
+        "telephone": "01-234455"
+    },
+    "details": [
+        {
+            "tipoDoc": "20",
+            "serie": "R001",
+            "correlativo": "122",
+            "desMotivoBaja": "ERROR DE SISTEMA"
+        },
+        {
+            "tipoDoc": "40",
+            "serie": "P001",
+            "correlativo": "111",
+            "desMotivoBaja": "ERROR DE RUC"
+        }
+    ]
+}

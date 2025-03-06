@@ -1,0 +1,139 @@
+{
+    "ublVersion": "2.1",
+    "tipoDoc": "01",
+    "serie": "FD01",
+    "correlativo": "1",
+    "fechaEmision": {
+        "date": "2025-03-04 03:12:57.287767",
+        "timezone_type": 3,
+        "timezone": "UTC"
+    },
+    "company": {
+        "ruc": "20123456789",
+        "razonSocial": "GREENTER S.A.C.",
+        "nombreComercial": "GREENTER",
+        "address": {
+            "ubigueo": "150101",
+            "codigoPais": "PE",
+            "departamento": "LIMA",
+            "provincia": "LIMA",
+            "distrito": "LIMA",
+            "urbanizacion": "CASUARINAS",
+            "direccion": "AV NEW DEÁL 123",
+            "codLocal": "0000"
+        },
+        "email": "admin@greenter.com",
+        "telephone": "01-234455"
+    },
+    "client": {
+        "tipoDoc": "6",
+        "numDoc": "20000000001",
+        "rznSocial": "EMPRESA 1 S.A.C.",
+        "address": {
+            "ubigueo": null,
+            "codigoPais": "PE",
+            "departamento": null,
+            "provincia": null,
+            "distrito": null,
+            "urbanizacion": null,
+            "direccion": "JR. NIQUEL MZA. F LOTE. 3 URB.  INDUSTRIAL INFAÑTAS - LIMA - LIMA -PERU",
+            "codLocal": "0000"
+        },
+        "email": "client@corp.com",
+        "telephone": "01-445566"
+    },
+    "tipoMoneda": "PEN",
+    "sumOtrosCargos": null,
+    "mtoOperGravadas": 20,
+    "mtoOperInafectas": null,
+    "mtoOperExoneradas": null,
+    "mtoOperExportacion": null,
+    "mtoOperGratuitas": null,
+    "mtoIGVGratuitas": null,
+    "mtoIGV": 3.6,
+    "mtoBaseIvap": null,
+    "mtoIvap": null,
+    "mtoBaseIsc": null,
+    "mtoISC": null,
+    "mtoBaseOth": null,
+    "mtoOtrosTributos": null,
+    "icbper": null,
+    "totalImpuestos": 3.6,
+    "redondeo": null,
+    "mtoImpVenta": 16.6,
+    "details": [
+        {
+            "unidad": "NIU",
+            "cantidad": 10,
+            "codProducto": "P004",
+            "codProdSunat": null,
+            "codProdGS1": null,
+            "descripcion": "PRODUCTO 4",
+            "mtoValorUnitario": 2,
+            "cargos": null,
+            "descuentos": [
+                {
+                    "codTipo": "01",
+                    "factor": 0.2,
+                    "monto": 4,
+                    "montoBase": 20
+                }
+            ],
+            "descuento": null,
+            "mtoBaseIgv": 20,
+            "porcentajeIgv": 18,
+            "igv": 3.6,
+            "tipAfeIgv": "10",
+            "mtoBaseIsc": null,
+            "porcentajeIsc": null,
+            "isc": null,
+            "tipSisIsc": null,
+            "mtoBaseOth": null,
+            "porcentajeOth": null,
+            "otroTributo": null,
+            "icbper": null,
+            "factorIcbper": 0.3,
+            "totalImpuestos": 3.6,
+            "mtoPrecioUnitario": 1.96,
+            "mtoValorVenta": 20,
+            "mtoValorGratuito": null,
+            "atributos": null
+        }
+    ],
+    "legends": [
+        {
+            "code": "1000",
+            "value": "SON SETENTA Y SIETE CON 88\/100 SOLES"
+        }
+    ],
+    "guias": null,
+    "relDocs": null,
+    "compra": null,
+    "formaPago": {},
+    "cuotas": null,
+    "tipoOperacion": "0101",
+    "fecVencimiento": null,
+    "sumDsctoGlobal": null,
+    "mtoDescuentos": null,
+    "sumOtrosDescuentos": 7,
+    "descuentos": [
+        {
+            "codTipo": "03",
+            "factor": 1,
+            "monto": 3,
+            "montoBase": 3
+        }
+    ],
+    "cargos": null,
+    "mtoCargos": null,
+    "totalAnticipos": null,
+    "perception": null,
+    "guiaEmbebida": null,
+    "anticipos": null,
+    "detraccion": null,
+    "seller": null,
+    "valorVenta": 20,
+    "subTotal": 23.6,
+    "observacion": null,
+    "direccionEntrega": null
+}
